@@ -90,9 +90,9 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 <!-- Image Links -->
 
-[project_logo]: 06_RESOURCES/project_cover_image.png
-[process_workflow]: 06_RESOURCES/process_architecture.png
-[scraping_graphic]: 06_RESOURCES/scraping_graphic.gif
+[project_logo]: 03_RESOURCES/project_cover_image.png
+[process_workflow]: 03_RESOURCES/process_architecture.png
+[scraping_graphic]: 03_RESOURCES/scraping_graphic.gif
 
 <!-- External Links -->
 
